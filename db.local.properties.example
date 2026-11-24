@@ -1,0 +1,4 @@
+# Configuración pública de ejemplo. No guardar contraseñas reales aquí.
+db.url=jdbc:mysql://localhost:3306/importaflow_final?connectionTimeZone=UTC&sslMode=PREFERRED
+db.user=root
+db.password=
