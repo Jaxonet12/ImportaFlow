@@ -64,6 +64,3 @@ La correspondencia entre las estructuras y el sílabo se encuentra en `docs/MAPA
 
 El formateo del código se verificó con compilación Java 17 y las ocho clases de pruebas. La ejecución de las transacciones contra MySQL requiere el servidor local.
 
-## Publicación del código
-
-Conservar únicamente el código, scripts académicos y documentación del repositorio. No incluir `target/`, `db.local.properties`, respaldos de bases reales ni credenciales privadas. Revisar los archivos antes de publicarlos.
