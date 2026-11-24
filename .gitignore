@@ -1,0 +1,11 @@
+/target/
+/nbproject/private/
+/db.local.properties
+*.log
+*.class
+.env
+.env.*
+*.dump
+*.bak
+
+/src/main/resources/db.properties
